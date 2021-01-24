@@ -1,0 +1,26 @@
+{
+  "name": "hammycare",
+  "version": "1.0.0",
+  "description": "An educational tool for looking after a hamster.",
+  "main": "scripts.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "node": "^15.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austcollins/HammyCare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austcollins/HammyCare/issues"
+  },
+  "homepage": "https://github.com/austcollins/HammyCare#readme"
+}
